@@ -1,0 +1,578 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202201 will be lost/reset.
+# Last config file used to build this data file was /home/syncserv/tmp/awstats/ssl/awstats.syncserver-wallet.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2022                
+POS_TIME 2710                
+POS_VISITOR 10641               
+POS_DAY 17494               
+POS_DOMAIN 3580                
+POS_LOGIN 4209                
+POS_ROBOT 4364                
+POS_WORMS 4881                
+POS_EMAILSENDER 5012                
+POS_EMAILRECEIVER 5155                
+POS_SESSION 17855               
+POS_SIDER 18064               
+POS_FILETYPES 5290                
+POS_DOWNLOADS 5478                
+POS_OS 5526                
+POS_BROWSER 5818                
+POS_SCREENSIZE 6872                
+POS_UNKNOWNREFERER 6946                
+POS_UNKNOWNREFERERBROWSER 7070                
+POS_ORIGIN 7189                
+POS_SEREFERRALS 7330                
+POS_PAGEREFS 7493                
+POS_SEARCHWORDS 7704                
+POS_KEYWORDS 7856                
+POS_MISC 2372                
+POS_ERRORS 7915                
+POS_CLUSTER 4065                
+POS_SIDER_404 8033                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220129125337 1190 297970 16053822268718
+FirstTime 20220119190038
+LastTime 20220129125330
+LastUpdate 20220129130931 1190 0 1190 0 0
+TotalVisits 196                 
+TotalUnique 156                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 171                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 186 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 27 444 9134095 323 430 38262
+1 13 381 11286260 233 331 31885
+2 7 172 3321672 149 189 136182
+3 1 2 0 8 8 29589
+4 1 4 346637 12 13 6377
+5 5 167 2747923 52 70 6377
+6 1 4 29589 17 27 30856
+7 9 166 2404435 59 84 37234
+8 13 305 5473509 232 317 135542
+9 30 674 17954409 350 479 51016
+10 29 278 8600075 191 237 560547
+11 31 140 3300949 218 319 88250
+12 26 512 11848002 300 399 248276
+13 21 510 13377684 275 388 143587
+14 23 591 18115123 277 347 181849
+15 17 187 5488356 185 242 19131
+16 19 450 12898272 314 463 63770
+17 22 667 16588045 374 496 94627
+18 19 207 2996506 318 404 311347
+19 18 520 13520460 325 429 482501
+20 11 260 8751795 225 331 44639
+21 12 362 9579776 232 330 19131
+22 37 710 16924108 319 363 270778
+23 34 448 11994810 314 408 101004
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 26
+us 171 2664 67001044
+ng 92 2201 50521857
+gb 42 777 13087847
+tr 35 441 11059225
+es 11 255 7969775
+ru 9 9 335456
+de 7 255 8228317
+co 7 169 5249881
+id 5 175 5679001
+nl 5 170 5594219
+ua 5 167 2624429
+ca 5 86 2717000
+ph 5 171 5949601
+eg 4 166 5248858
+in 4 89 2872399
+cy 4 91 2717799
+no 3 87 2971066
+fr 3 87 2971066
+cl 2 7 445418
+pl 2 2 30857
+zz 1 80 2372595
+ro 1 2 249239
+kr 1 1 0
+pt 1 4 345369
+sa 1 4 345369
+au 0 1 94803
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+YandexBot/ 15 993140 20220129025341 0
+no_user_agent 5 0 20220129011340 0
+facebookexternalhit/ 3 214056 20220122170223 0
+Googlebot/ 2 61714 20220123234643 0
+AhrefsBot/ 2 61714 20220122131550 0
+bot[\s_+:,\.\;\/\\-] 2 123153 20220122184036 0
+curl 1 2651 20220119184633 0
+Apache\-HttpClient/ 1 29589 20220121033234 0
+bingbot/ 1 30857 20220129075730 0
+TelegramBot 1 30857 20220124024659 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+php 69 19315 0 0
+html 357 15299681 0 0
+png 5520 77434191 0 0
+jpg 1301 11520036 0 0
+css 621 79578542 0 0
+js 293 22830725 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+linux 3 3
+android10 179 5
+macosx15 824 87
+win7 176 8
+macosx10 1 1
+win10 1741 90
+Unknown 3 3
+macosx14 5 5
+unix 4 1
+linuxubuntu 1 1
+android 407 11
+ios_iphone 4201 167
+androidpie 366 37
+macosx13 166 4
+androidoreo 83 2
+win8.1 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 47
+iphone 10 4
+chrome95.0.4638.69 88 3
+safari14.0.1 237 6
+chrome97.0.4692.99 675 23
+safari12.1.2 276 9
+safari14.1.1 258 12
+opera64.0.3417.92 1 1
+firefox96.0 423 18
+firefox55.0 1 1
+chrome58.0.3029.110 1 1
+safari15.1 491 21
+safari15.0 661 16
+chrome97.0.4692.71 1430 115
+chrome96.0.4664.110 173 6
+chrome96.0.4664.104 274 33
+chrome76.0.3809.71 8 2
+chrome96.0.4664.92 4 1
+chrome66.0.3359.181 1 1
+edge12 1 1
+chrome97.0.4692.98 82 5
+chrome87.0.4280.141 88 3
+chrome92.0.4515.159 83 2
+chrome93.0.4577.82 80 1
+chrome83.0.4103.106 2 2
+chrome60.0.3112.90 4 1
+chrome79.0.3945.130 2 2
+safari14.1.2 175 7
+chrome71.0.3578.98 1 1
+chrome96.0.4664.45 171 5
+chrome76.0.3809.132 4 4
+chrome94.0.4606.61 9 9
+Unknown 3 3
+chrome90.0.4430.91 4 1
+chrome77.0.3865.92 163 1
+chrome83.0.4103.97 1 1
+safari15.2 1996 85
+chrome97.0.4692.77 4 1
+firefox83.0 1 1
+safari14.0.3 80 2
+safari14.0 1 1
+safari 21 6
+chrome91.0.4472.114 1 1
+chrome92.0.4515.166 4 1
+chrome97.0.4692.87 83 2
+chrome78.0.3904.97 1 1
+opera82.0.4227.50 83 2
+safari10.1.2 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+WhatsApp/2.21.19.21_A 20220122091615
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+WhatsApp/2.21.19.21_A 20220122091615
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 243 245
+From1 2 2
+From2 6 6
+From3 10 10
+From4 165 7898
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 6 6
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://eel.wghservers.com:2083 9 9
+https://l.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+500 1 0
+206 14 653984
+404 6780 0
+302 51 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 54
+/fonts/Gilroy-ExtraBold.svg 187 https://syncserver-wallet.com/
+/fonts/Gilroy-Regular.woff 294 https://syncserver-wallet.com/
+/WalletAPI_wallets_files/saved_resource.html 211 https://syncserver-wallet.com/
+/fonts/Gilroy-Heavy.svg 177 https://syncserver-wallet.com/
+/fonts/Gilroy-Regular.svg 189 https://syncserver-wallet.com/
+/apple-touch-icon-precomposed.png 9 -
+/fonts/Gilroy-Medium.woff2 291 https://syncserver-wallet.com/
+/fonts/Gilroy-SemiBold.svg 200 https://syncserver-wallet.com/
+/fonts/Gilroy-Light.woff2 298 https://syncserver-wallet.com/
+/fonts/Gilroy-Black.svg 180 https://syncserver-wallet.com/
+/fonts/Gilroy-Bold.woff 401 https://syncserver-wallet.com/
+/wall 1 -
+/wallet.- 1 -
+/fonts/Gilroy-Regular.woff2 297 https://syncserver-wallet.com/
+/fonts/Gilroy-Light.woff 292 https://syncserver-wallet.com/
+/main.ba3fecb7.chunk.css.map 3 -
+/fonts/Gilroy-Medium.svg 182 https://syncserver-wallet.com/
+/fonts/Gilroy-Bold.svg 192 https://syncserver-wallet.com/
+/wallets%20is%20this%20safe 1 -
+/fonts/Gilroy-Medium.woff 287 https://syncserver-wallet.com/
+/aaa9 1 -
+/manifest.json 20 https://syncserver-wallet.com/
+/main.638bd599.chunk.css.map 4 -
+/fonts/Gilroy-Black.woff2 185 https://syncserver-wallet.com/
+/wallet- 1 -
+/sitemap.xml 2 -
+/fonts/Gilroy-SemiBold.woff 411 https://syncserver-wallet.com/
+/walle 1 -
+/archivarix.cms.php 2 -
+/img/safemoon.jpg 33 https://syncserver-wallet.com/
+/WalletAPI_wallets_files/metamask.023762b6.html 213 https://syncserver-wallet.com/
+/fonts/Gilroy-Bold.woff2 405 https://syncserver-wallet.com/
+/fonts/Gilroy-ExtraBold.woff 189 https://syncserver-wallet.com/
+/wal 1 -
+/fonts/Gilroy-SemiBold.woff2 415 https://syncserver-wallet.com/
+/social-card.html 29 -
+/fonts/Gilroy-ExtraBold.woff2 190 https://syncserver-wallet.com/
+/dApps.html 12 -
+/w 1 -
+/.well-known/assetlinks.json 1 -
+/wallets.html 12 https://syncserver-wallet.com/wallet.html
+/wallet.htm 1 -
+/wa 1 -
+/robots.txt 16 -
+/fonts/Gilroy-Heavy.woff 278 https://syncserver-wallet.com/
+/fonts/Gilroy-Black.woff 180 https://syncserver-wallet.com/
+/wallet.ht 1 -
+/wallet 1 -
+/fonts/Gilroy-Light.svg 185 https://syncserver-wallet.com/
+/fonts/Gilroy-Heavy.woff2 278 https://syncserver-wallet.com/
+/wallet.h 1 -
+/apple-touch-icon.png 9 -
+/2.383c0125.chunk.css.map 4 -
+/logo192.png 4 https://syncserver-wallet.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 171
+156.146.46.205 35 114 544276 20220121103635
+95.70.244.243 34 437 10712589 20220126221402
+197.211.59.102 33 783 11985308 20220129000022
+146.70.65.140 26 428 4367919 20220121165807
+154.21.22.243 10 20 343133 20220120153307
+143.244.38.20 8 89 2719899 20220127004955
+156.146.47.13 8 9 1423 20220121112801
+154.21.21.6 8 86 1897308 20220120145435
+154.21.21.219 8 96 1165009 20220120185453
+181.129.173.66 7 169 5249881 20220124050245
+185.69.253.137 7 88 2626114 20220127140203
+136.36.77.186 7 88 2625984 20220129000903
+105.112.188.73 5 17 693274 20220124024705
+146.70.65.134 5 86 123445 20220122135724
+105.112.183.204 4 88 3001923 20220126152335
+105.112.30.56 4 85 2812207 20220120202613
+176.92.79.196 4 91 2717799 20220120182709
+105.112.22.200 4 88 3063049 20220121014921
+154.21.22.201 4 166 473077 20220123051850
+107.77.198.12 4 164 5091551 20220127212346
+105.112.70.95 4 85 678 20220129003345
+143.244.37.81 4 4 1408 20220127075900
+197.210.65.244 3 12 1039911 20220129110609
+154.21.22.66 3 159 2460997 20220119232847
+35.176.24.206 3 87 2971066 20220127095613
+172.31.30.179 1 80 2372595 20220122132219
+197.58.200.250 2 83 2624429 20220123144114
+197.210.65.204 2 83 2623035 20220121140315
+45.90.61.27 1 1 30856 20220121151248
+37.201.192.113 2 83 2624429 20220129010034
+143.244.37.15 1 2 0 20220121030801
+47.242.180.72 1 1 30857 20220122115618
+197.210.44.71 2 83 2624429 20220125201417
+102.91.4.56 1 40 1152788 20220128105443
+91.164.108.2 1 4 346637 20220122164526
+63.141.48.67 1 4 346637 20220128180251
+46.101.13.225 1 4 346637 20220126201711
+197.210.77.250 2 5 377492 20220122085717
+45.58.49.36 1 1 92288 20220120112458
+66.220.149.24 1 1 30857 20220124142643
+194.117.18.99 1 4 345369 20220120231242
+173.239.226.112 2 114 3668059 20220127161052
+105.112.176.23 1 4 346637 20220127134049
+116.202.36.170 1 1 30856 20220121123824
+153.100.182.12 1 4 346637 20220128221829
+188.127.180.111 2 83 2624429 20220122170356
+172.245.75.79 1 1 30857 20220122222128
+105.112.70.136 1 79 2366793 20220120103006
+65.132.0.98 1 4 345369 20220120192112
+208.53.195.133 1 4 345369 20220121083841
+54.234.103.230 1 1 30856 20220121130047
+136.158.30.62 2 83 2624429 20220124143449
+81.206.169.234 2 83 2624429 20220126195316
+110.54.230.232 2 83 2761302 20220120121548
+77.20.72.101 2 85 2632822 20220123133323
+66.220.149.116 0 1 218382 
+102.89.3.55 0 30 598214 
+143.244.48.7 2 83 0 20220123174459
+197.210.64.254 2 83 2624429 20220127130008
+105.112.30.156 3 84 123492 20220124004424
+63.117.215.10 1 80 2372595 20220123174913
+110.54.229.192 1 5 563870 20220120160113
+37.19.198.89 2 83 2624429 20220126015709
+108.20.141.46 2 83 2624429 20220123174911
+197.149.127.197 1 4 346636 20220122080435
+95.105.124.92 2 2 60565 20220124155608
+154.117.111.236 2 83 2624429 20220127092407
+37.225.75.159 1 1 0 20220123164402
+176.53.217.21 1 1 30856 20220121213608
+105.112.182.102 1 4 0 20220121113253
+181.214.62.32 1 4 345369 20220120190133
+198.240.89.182 1 2 249239 20220123134619
+76.21.220.80 2 83 2624429 20220126125331
+172.58.83.25 1 4 346636 20220121172535
+143.244.37.208 2 83 123152 20220122092009
+34.221.186.43 1 1 30857 20220126122311
+176.53.220.172 1 1 92288 20220120151102
+171.33.237.196 1 80 2372595 20220127140644
+107.77.232.12 2 83 2624429 20220128215254
+209.126.88.94 1 4 346637 20220128231133
+27.59.26.202 1 80 2372595 20220122123649
+156.146.46.200 2 81 1468556 20220120222607
+77.200.137.168 2 83 2624429 20220128160432
+128.119.202.133 1 4 346637 20220127191605
+41.190.2.49 2 40 349924 20220124011400
+105.112.70.154 2 83 447559 20220124190537
+139.99.252.97 1 4 346636 20220121123216
+143.244.37.17 1 1 285 20220127172629
+197.210.64.54 1 20 1277955 20220127162636
+81.109.89.94 3 84 2624762 20220125235803
+188.212.140.225 1 2 249239 20220125185521
+41.190.3.64 2 23 1046416 20220125223420
+95.90.217.12 2 83 2624429 20220128221313
+154.21.22.77 2 2 0 20220120224530
+66.220.149.30 0 1 94803 
+129.205.124.14 2 80 2459081 20220120090524
+120.28.64.58 2 83 2624429 20220124142545
+143.244.38.5 3 82 2373438 20220127074823
+54.212.33.103 1 1 30857 20220129125209 20220129125209 /
+64.233.172.12 0 1 94803 
+154.21.21.188 2 83 2623153 20220120202320
+197.210.45.63 1 4 345369 20220120202435
+197.210.78.102 0 2 220977 
+146.70.65.135 2 5 346637 20220126093619
+104.232.208.29 0 1 94803 
+74.97.1.2 3 84 2624703 20220126000329
+197.210.52.221 1 1 90903 20220122091313
+211.195.0.52 1 1 0 20220121123528
+197.210.78.122 1 27 884249 20220121165614
+5.229.125.124 1 4 346636 20220121140142
+35.187.132.108 1 1 29589 20220121111411
+176.53.217.144 1 1 29589 20220121070913
+176.113.42.204 1 1 30856 20220121231255
+197.210.79.98 0 25 1067484 
+162.205.203.233 1 4 346637 20220128222822
+45.144.113.101 1 4 218382 20220127180628
+207.136.212.34 2 83 2624429 20220127162217
+45.90.61.251 1 1 29589 20220120231449
+80.203.116.204 1 4 346637 20220128001949
+198.240.91.14 0 1 2595 
+212.142.160.101 1 4 346637 20220129125330 20220129125330 /
+176.53.216.73 1 1 29589 20220120213809
+85.208.4.114 1 4 345369 20220121111453
+81.99.18.146 1 4 345369 20220120185421
+89.104.110.97 1 1 30857 20220122215300
+45.90.63.245 1 1 30857 20220123211407
+31.53.185.194 2 83 2624429 20220125232531
+197.210.55.224 1 55 1247547 20220120150120
+174.119.42.25 2 83 2624429 20220124010757
+8.218.77.49 1 1 30857 20220127231607
+88.145.231.33 2 83 2624429 20220127140239
+47.242.13.206 1 1 30857 20220122120903
+65.154.226.165 2 8 693272 20220121121600
+64.233.172.14 1 3 251834 20220125051107
+197.210.45.148 1 4 346637 20220129003125
+174.255.68.63 2 83 2624429 20220127191655
+54.237.250.240 1 1 30856 20220121123534
+109.38.144.72 1 2 247971 20220121101807
+93.159.230.89 1 1 30856 20220121115713
+37.19.198.118 3 84 0 20220129085315
+24.60.95.126 2 83 2624429 20220123192551
+102.89.3.187 2 32 1013651 20220127223318
+119.13.205.107 0 1 94803 
+54.228.173.74 1 1 2651 20220119212842
+199.250.251.36 1 80 2372595 20220124173354
+181.214.240.31 0 2 97398 
+198.240.91.161 0 1 2595 
+146.70.65.150 1 4 30857 20220127080255
+181.215.64.184 1 1 2651 20220119190038
+139.162.137.161 1 81 2375182 20220121102014
+102.91.5.135 1 16 336103 20220128105439
+197.210.53.51 1 1 30856 20220122091615
+198.240.89.159 1 2 249239 20220122190118
+197.43.77.43 2 83 2624429 20220124095502
+168.181.49.38 1 4 345488 20220120171613
+34.123.59.47 1 1 30857 20220123144341
+205.185.105.29 1 4 345369 20220121083840
+46.204.48.19 1 1 30857 20220123164402
+197.210.226.150 0 24 1119246 
+103.107.197.57 1 4 250566 20220120232114
+66.220.149.19 0 1 2595 
+107.117.176.87 2 83 2624429 20220127002057
+45.35.180.27 2 70 2371034 20220124173352
+154.117.105.182 1 4 346637 20220128005954
+41.190.2.31 2 83 1093720 20220126193542
+47.243.235.114 1 1 30857 20220127231609
+41.190.30.252 1 79 2366793 20220120134848
+197.210.70.200 0 27 1135538 
+102.129.152.26 1 36 1565681 20220122085109
+197.210.85.126 1 29 450325 20220121165543
+102.89.3.56 0 21 1012564 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20220119 5 161 2466299 3
+20220120 76 1476 36440934 32
+20220121 90 774 15711464 32
+20220122 39 738 17036139 24
+20220123 26 764 14832982 18
+20220124 30 875 22136332 16
+20220125 39 558 18083531 9
+20220126 27 682 17560132 14
+20220127 57 1412 42822006 26
+20220128 20 443 15203225 13
+20220129 17 278 4389446 9
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 10
+15mn-30mn 8
+1h+ 1
+0s-30s 138
+30mn-1h 6
+2mn-5mn 6
+30s-2mn 25
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 214 6321120 163 104
+/wallet.html 126 7466129 27 63
+/sync.php 69 19315 5 20
+/rand.html 17 1512432 1 7
+END_SIDER

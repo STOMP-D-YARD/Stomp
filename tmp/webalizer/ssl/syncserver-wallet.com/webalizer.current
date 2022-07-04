@@ -1,0 +1,1264 @@
+# Webalizer V2.23-08 Incremental Data - 01/29/2022 12:53:37
+2022 1 29 12 53 37
+15265 6214 244 86 13 89 209815247 877 262 0
+14 18 509 19 29
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+179 84 2475327 4 10 4
+2769 980 36964985 34 168 36
+1693 438 16352250 41 152 36
+1546 519 18057194 37 99 38
+1365 448 14970192 21 68 24
+1448 726 22337312 37 70 30
+1015 555 18153678 17 53 11
+1282 539 17623902 14 59 19
+2570 1349 43061248 36 126 33
+814 460 15305257 19 36 17
+584 116 4513902 14 36 14
+0 0 0 0 0 0
+0 0 0 0 0 0
+874 281 9172357 48
+712 349 11318145 29
+361 100 3457854 25
+10 1 29589 5
+17 5 353014 1
+237 87 2754300 8
+31 2 60445 2
+250 89 2441669 10
+622 143 5609051 41
+1153 513 18005425 70
+515 267 9160622 62
+459 60 3389199 38
+911 363 12096278 51
+898 434 13521271 48
+938 542 18296972 68
+429 176 5507487 33
+913 378 12962042 41
+1163 511 16682672 57
+611 86 3307853 40
+949 421 14002961 42
+591 266 8796434 23
+692 291 9598907 36
+1073 474 17194886 57
+856 375 12095814 42
+0
+0
+0
+6214
+0
+0
+0
+0
+0
+14
+0
+0
+51
+0
+2166
+0
+0
+0
+0
+0
+0
+6819
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+# -urls- 
+/img/crypto.png
+0 96 7814716426037852777 1935531 0 0
+/img/infinity_wallet.png
+0 93 3978139917148447342 1124260 0 0
+/img/rainbow.png
+0 95 3544665200612409600 1498448 0 0
+/img/safepal.png
+0 92 26113696 1101870 0 0
+/img/peakdefi.png
+0 93 0 654228 0 0
+/img/trust.png
+0 95 0 331024 0 0
+/img/walleth.png
+0 98 0 756079 0 0
+/img/algorand.jpg
+0 93 0 511496 0 0
+/home2.css
+0 135 0 269880 0 0
+/img/ownbit.png
+0 92 0 2719195 0 0
+/style.css
+0 97 0 3705632 0 0
+/rand.html
+0 17 0 1512432 1 2
+/img/bitkeep.png
+0 92 0 491368 0 0
+/img/coin98.png
+0 94 0 4361076 0 0
+/img/aktionariat.png
+0 91 0 1789998 0 0
+/img/easypocket.png
+0 93 0 388125 0 0
+/img/terra.png
+0 92 0 408231 0 0
+/img/safemoon.jpg
+0 90 0 382404 0 0
+/img/wallet.io.png
+0 94 0 789180 0 0
+/jquery.js
+0 102 0 22797741 0 0
+/img/loopring.jpg
+0 94 0 487900 0 0
+/img/morixwallet.png
+0 94 0 1602732 0 0
+/img/argent.jpg
+0 95 0 201040 0 0
+/img/vision.png
+0 92 0 6387330 0 0
+/img/dok.png
+0 92 0 411723 0 0
+/img/pillar.png
+0 95 0 137172 0 0
+/img/maiar.png
+0 95 0 2481447 0 0
+/img/spatium.jpg
+0 95 0 329700 0 0
+/img/trustvault.png
+0 94 0 750448 0 0
+/img/1inch.jpg
+0 92 0 1132769 0 0
+/img/infinito.png
+0 92 0 357244 0 0
+/img/onto.png
+0 96 0 587160 0 0
+/wallet.html
+0 131 0 7924823 28 1
+/img/alpha.jpg
+0 92 0 620889 0 0
+/img/keyringpro.png
+0 93 0 1812440 0 0
+/home.css
+0 138 0 23020544 0 0
+/img/viawallet.png
+0 93 0 780666 0 0
+/img/favicon.ico
+0 186 0 931042 0 0
+/img/nash.jpg
+0 93 0 615332 0 0
+/img/tokenary.png
+0 92 0 192692 0 0
+/img/eidoo.png
+0 94 0 331024 0 0
+/img/huobi.jpg
+0 94 0 653344 0 0
+/img/unstoppable.png
+0 92 0 445944 0 0
+/img/mobox.png
+0 96 0 909794 0 0
+/img/swft.png
+0 92 0 295182 0 0
+/foot.css
+0 154 0 10902345 0 0
+/img/dcentwallet.png
+0 93 0 538211 0 0
+/img/equal.jpg
+0 93 0 613050 0 0
+/img/math_wallet.png
+0 95 0 2164610 0 0
+/img/trezor.png
+0 94 0 606648 0 0
+/img/enjin.png
+0 95 0 686630 0 0
+/img/zelcore.png
+0 93 0 3086928 0 0
+/img/parity_signer.png
+0 93 0 299540 0 0
+/img/atwallet.png
+0 93 0 1170033 0 0
+/js2w.js
+0 98 0 404780 0 0
+/img/bridge.png
+0 92 0 426991 0 0
+/img/meetone.png
+0 92 0 1180808 0 0
+/img/sparkpoint.png
+0 94 0 1173680 0 0
+/img/solfare.jpg
+0 91 0 1943508 0 0
+/img/ellipal.png
+0 91 0 514493 0 0
+/main.css
+0 103 0 42087630 0 0
+/
+0 242 0 6970498 188 31
+/img/phantom.jpg
+0 91 0 2973594 0 0
+/sync.php
+0 69 0 19315 0 0
+/img/ronin.png
+0 95 0 149661 0 0
+/img/torus.jpg
+0 93 0 461817 0 0
+/img/imtoken.png
+0 94 0 1123632 0 0
+/img/gnosis.jpg
+0 95 0 593193 0 0
+/img/metamask.png
+0 97 0 703894 0 0
+/img/bitpay.png
+0 96 0 528780 0 0
+/img/xdc.png
+0 93 0 847000 0 0
+/img/ledgerlive.png
+0 96 0 511773 0 0
+/img/cybavowallet.png
+0 94 0 9622886 0 0
+/img/wazirx.png
+0 95 0 826420 0 0
+/js1.js
+0 99 0 222148 0 0
+/img/alice.png
+0 92 0 243342 0 0
+/img/tokenpocket.png
+0 94 0 454710 0 0
+/img/bsc.png
+0 93 0 1534420 0 0
+/img/authereum.png
+0 94 0 511411 0 0
+/img/atomic.png
+0 95 0 8867304 0 0
+/img/midas_wallet.png
+0 91 0 679983 0 0
+/img/gridplus.png
+0 92 0 711942 0 0
+/img/mykey.png
+0 94 0 481864 0 0
+/img/blockchain_logo.png
+0 96 0 824670 0 0
+/img/coolwallet.png
+0 92 0 276352 0 0
+/img/coinomi.png
+0 92 0 946174 0 0
+# End Of Table - urls
+# -sites- (monthly)
+62.30.158.136.convergeict.com
+0 104 84 2630806 1 1643034892
+-
+105.112.30.56
+0 188 86 2818584 1 1642710373
+/rand.html
+119.13.205.107
+0 1 1 94803 0 0
+-
+95.105.124.92.dynamic.o56.ru
+0 2 2 60565 2 1643039768
+/
+fwdproxy-ash-005.fbsv.net
+0 1 0 0 1 1643163356
+-
+google-proxy-64-233-172-10.google.com
+0 3 0 0 0 0
+-
+102.129.194.225
+0 7 0 0 0 0
+-
+static-bafo-181-129-173-66.une.net.co
+0 242 171 5262635 2 1643000522
+-
+unn-143-244-37-15.datapacket.com
+0 8 0 0 1 1642734482
+-
+149.154.161.8
+0 1 0 0 1 1642841636
+-
+unn-143-244-48-7.datapacket.com
+0 175 0 0 2 1642974360
+-
+fwdproxy-prn-021.fbsv.net
+0 1 1 6377 0 0
+-
+87-250-224-5.spider.yandex.com
+0 1 0 0 0 0
+-
+154.21.22.243
+0 130 8 343133 1 1642692787
+/
+fwdproxy-ash-027.fbsv.net
+0 1 1 6377 0 0
+-
+154.21.21.219
+0 172 53 1165009 1 1642704893
+/wallet.html
+45.35.180.27
+0 89 71 2377411 1 1643045638
+-
+fwdproxy-nha-002.fbsv.net
+0 2 0 0 1 1643273841
+-
+129.205.124.14
+0 135 81 2465458 1 1642669525
+-
+fwdproxy-prn-116.fbsv.net
+0 3 1 218382 0 0
+-
+pool-108-20-141-46.bstnma.fios.verizon.net
+0 138 84 2630806 1 1642961368
+-
+110.54.230.232
+0 109 86 2859889 1 1642681031
+-
+fwdproxy-prn-002.fbsv.net
+0 2 1 30857 1 1643034398
+-
+197.210.53.51
+0 1 1 30856 1 1642842975
+/
+197.211.59.102
+0 1755 297 12325876 22 1643414422
+/
+unn-143-244-37-208.datapacket.com
+0 102 2 123152 1 1642843209
+-
+213-180-203-86.spider.yandex.com
+0 14 7 395920 4 1643424761
+/
+fwdproxy-ldc-019.fbsv.net
+0 1 0 0 1 1643046721
+-
+172-245-75-79-host.colocrossing.com
+0 1 1 30857 1 1642890088
+/
+188.212.140.225
+0 2 2 249239 1 1643136921
+/
+ip4d144865.dynamic.kabel-deutschland.de
+0 112 86 2639199 1 1642944879
+-
+154.21.22.201
+0 268 7 473077 2 1642915136
+-
+ec2-54-237-250-240.compute-1.amazonaws.com
+0 1 1 30856 1 1642768534
+/
+45.144.113.101
+0 29 2 224759 1 1643306788
+/
+static.170.36.202.116.clients.your-server.de
+0 1 1 30856 1 1642768704
+/
+197.211.59.109
+0 24 0 0 0 0
+-
+197.210.85.126
+0 63 30 456702 1 1642784143
+/
+fwdproxy-prn-003.fbsv.net
+0 1 1 30857 1 1643034396
+/
+unn-37-19-198-89.datapacket.com
+0 158 84 2630806 1 1643162232
+-
+154.21.22.66
+0 175 81 2467374 1 1642634927
+/rand.html
+fwdproxy-frc-018.fbsv.net
+0 1 0 0 1 1643301822
+-
+ip97.ip-139-99-252.net
+0 17 5 353013 1 1642768336
+/
+crawl-66-249-66-84.googlebot.com
+0 1 0 0 0 0
+-
+unn-37-19-198-118.datapacket.com
+0 217 0 0 2 1643448925
+-
+45.90.61.251
+0 2 1 29589 1 1642720489
+/
+www.9mobile.com.ng
+0 425 115 4869607 4 1643225747
+-
+55.253.86.109.triolan.net
+0 4 0 0 0 0
+-
+ip-54-36-148-107.a.ahrefs.com
+0 1 1 30857 1 1642851215
+/
+197.210.76.51
+0 1 0 0 0 0
+-
+read.bluefirelaunch.net
+0 55 37 1572058 1 1642841474
+-
+google-cache
+0 87 81 2378972 1 1643292405
+-
+102.91.4.56
+0 69 40 1152788 1 1643367285
+-
+46.101.13.225
+0 31 6 359391 1 1643228231
+/
+109.38.144.72
+0 2 2 247971 1 1642760287
+/
+host2.bbafib.cust.sover.net
+0 134 84 2630806 1 1643300538
+-
+146.70.65.134
+0 187 3 123445 2 1642859844
+-
+102.89.3.56
+0 31 22 1018941 0 0
+-
+cpc86064-nott19-2-0-cust349.12-2.cable.virginm.net
+0 103 85 2631139 1 1643155024
+-
+197.210.76.178
+0 24 0 0 1 1643397839
+-
+104.232.208.29
+0 13 2 101180 0 0
+-
+38.49.181.168.rfc6598.dynamic.copelfibra.com.br
+0 20 5 351865 1 1642698973
+/
+211.195.0.52
+0 1 1 0 1 1642768528
+/
+public-gprs566366.centertel.pl
+0 1 1 0 1 1642956242
+/
+149.154.161.18
+0 2 0 0 0 0
+-
+173.239.226.112
+0 325 115 3674436 4 1643402106
+-
+120.28.64.58
+0 102 84 2630806 1 1643034347
+-
+ec2-54-234-103-230.compute-1.amazonaws.com
+0 1 1 30856 1 1642770047
+/
+198.240.89.159
+0 2 2 249239 1 1642878078
+/
+110.54.229.192
+0 13 5 563870 1 1642694473
+/
+197.210.84.146
+0 1 0 0 0 0
+-
+fwdproxy-ash-008.fbsv.net
+0 1 0 0 1 1643338076
+-
+172.58.83.25
+0 29 5 353013 1 1642785935
+/
+fwdproxy-atn-009.fbsv.net
+0 1 0 0 1 1643311285
+-
+45.90.61.27
+0 2 1 30856 1 1642777968
+/
+47.242.180.72
+0 4 2 37234 1 1642852578
+/
+105.112.70.136
+0 107 80 2373170 1 1642674607
+-
+105.112.182.102
+0 29 0 0 1 1642764773
+/
+nrwh-13-b2-v4wan-162735-cust145.vm23.cable.virginm.net
+0 29 5 351746 1 1642704861
+/
+fwdproxy-prn-026.fbsv.net
+0 1 1 6377 0 0
+-
+154.21.22.77
+0 16 0 0 1 1642718731
+-
+unn-156-146-46-205.cdn77.com
+0 274 11 544276 1 1642761396
+-
+fwdproxy-ash-117.fbsv.net
+0 1 0 0 1 1643281369
+-
+fwdproxy-ncg-010.fbsv.net
+0 1 0 0 1 1643047700
+-
+35.187.132.108
+0 2 2 29589 1 1642763651
+/
+bvi15831.googlecache.bntpsdae02r.sdnet.net
+0 17 5 351746 1 1642754321
+/
+197.149.127.197
+0 17 5 353013 1 1642838675
+/
+unn-156-146-46-200.cdn77.com
+0 91 10 1651084 1 1642717567
+/rand.html
+105.112.183.204
+0 212 90 3014677 3 1643210616
+-
+cerebro-ldc-prod-102.kaspersky-labs.com
+0 1 1 30856 1 1642766233
+/
+srv2.whogohost.com
+0 3 3 0 3 1643243193
+/
+154.117.111.236
+0 134 84 2630806 1 1643275449
+-
+154.21.21.188
+0 134 84 2629530 1 1642710203
+-
+149.154.161.2
+0 2 0 0 1 1642841504
+-
+95.70.244.243
+0 729 362 10750851 4 1643235244
+-
+181.215.95.121
+0 7 0 0 0 0
+-
+112.198.66.18
+0 8 0 0 1 1642684434
+-
+197.210.79.98
+0 31 25 1067484 0 0
+-
+197.210.65.204
+0 208 84 2629412 1 1642773882
+-
+fwdproxy-rva-017.fbsv.net
+0 1 0 0 1 1643035057
+-
+107.117.176.87
+0 134 84 2630806 1 1643242859
+-
+88-145-231-33.host.pobb.as13285.net
+0 104 84 2630806 1 1643292163
+-
+168.137.200.77.rev.sfr.net
+0 104 86 2643560 1 1643385873
+-
+197.210.55.224
+0 78 56 1253924 1 1642690882
+-
+168.151.200.37
+0 1 0 0 0 0
+-
+188.127.180.111
+0 130 84 2630806 1 1642871186
+-
+47.59.123.34.bc.googleusercontent.com
+0 1 1 30857 1 1642949021
+/
+176.53.220.172
+0 2 1 92288 1 1642691462
+/
+105.112.30.156
+0 135 3 123492 1 1642985034
+-
+65.132.0.98
+0 19 5 351746 1 1642706472
+/
+105.112.70.154
+0 133 41 453936 1 1643051137
+-
+197.210.77.250
+0 11 5 377492 2 1642841837
+/
+fwdproxy-prn-019.fbsv.net
+0 8 2 8972 0 0
+-
+149.154.161.5
+0 3 0 0 1 1642841495
+-
+fwdproxy-ftw-015.fbsv.net
+0 1 0 0 1 1643052299
+-
+5.229.125.124
+0 29 5 353013 1 1642773702
+/
+95-108-213-73.spider.yandex.com
+0 1 1 5470 0 0
+-
+47.242.13.206
+0 4 2 37234 1 1642853343
+/
+197.210.44.71
+0 134 84 2630806 1 1643141658
+-
+host31-53-185-194.range31-53.btcentralplus.com
+0 134 84 2630806 1 1643153131
+-
+mobile-107-77-198-12.mobile.att.net
+0 345 166 5104305 1 1643318640
+-
+ec2-54-212-33-103.us-west-2.compute.amazonaws.com
+0 1 1 30857 1 1643460729
+/
+198.240.91.161
+0 1 1 2595 0 0
+-
+fwdproxy-ldc-011.fbsv.net
+0 1 0 0 1 1643206175
+-
+150.107.200.155
+0 1 0 0 0 0
+-
+ip-037-201-192-113.um10.pools.vodafone-ip.de
+0 102 84 2630806 1 1643418034
+-
+81-206-169-234.fixed.kpn.net
+0 114 84 2630806 1 1643226796
+-
+fwdproxy-ftw-119.fbsv.net
+0 1 1 6377 0 0
+-
+fwdproxy-prn-030.fbsv.net
+0 5 1 94803 0 0
+-
+ip-54-36-149-21.a.ahrefs.com
+0 1 0 0 0 0
+-
+fwdproxy-ncg-013.fbsv.net
+0 1 0 0 1 1643034402
+-
+197.210.226.150
+0 29 24 1119246 0 0
+-
+45.90.63.245
+0 2 1 30857 1 1642972447
+/
+146.70.65.138
+0 87 0 0 3 1643077235
+-
+91-164-108-2.subs.proxad.net
+0 17 5 353014 1 1642869926
+/
+197.210.84.176
+0 25 0 0 1 1643315961
+-
+197.210.78.114
+0 10 0 0 0 0
+-
+197.210.65.244
+0 14 14 1052665 1 1643454369
+/
+ip5f5ad90c.dynamic.kabel-deutschland.de
+0 102 84 2630806 1 1643407994
+-
+105.112.22.200
+0 136 90 3075803 1 1642729761
+/
+181.214.99.176
+0 1 1 6377 0 0
+-
+24.60.95.126
+0 155 84 2630806 1 1642966684
+-
+176.53.217.21
+0 2 1 30856 1 1642800968
+/
+105.112.188.73
+0 249 10 706028 5 1642992425
+/
+149.154.161.19
+0 2 1 30857 1 1642992419
+-
+181.215.64.184
+0 1 1 2651 1 1642618838
+/
+vmi763000.contaboserver.net
+0 1 0 0 1 1642994179
+-
+63.sub-174-255-68.myvzw.com
+0 134 84 2630806 1 1643311017
+-
+176.53.216.73
+0 2 1 29589 1 1642714689
+/
+fwdproxy-prn-024.fbsv.net
+0 1 1 30857 1 1643034403
+/
+ec2-35-176-24-206.eu-west-2.compute.amazonaws.com
+0 164 90 2990197 1 1643277373
+/
+27.59.26.202
+0 90 81 2378972 1 1642855225
+-
+102.89.3.187
+0 39 32 1013651 1 1643322801
+-
+ip-54-36-149-68.a.ahrefs.com
+0 1 1 30857 1 1642857350
+/
+ggc-36.btconline.net
+0 87 81 2378972 1 1643045635
+-
+fwdproxy-ftw-002.fbsv.net
+0 1 0 0 1 1643059241
+-
+10.215.117.63.boston.google-ggc.verizon.com
+0 87 81 2378972 1 1642960154
+-
+205-185-105-29.directcom.com
+0 19 5 351746 1 1642754320
+/
+139-162-137-161.ip.linodeusercontent.com
+0 104 84 2471993 1 1642760415
+-
+197.210.64.54
+0 46 20 1277955 1 1643300798
+-
+87-250-224-60.spider.yandex.com
+0 4 4 381149 3 1643424821
+/
+197.210.77.249
+0 1 0 0 1 1643397840
+-
+197.210.45.63
+0 14 5 351746 1 1642710275
+/
+unn-143-244-37-17.datapacket.com
+0 9 1 285 1 1643304345
+-
+45.58.49.36
+0 1 1 92288 1 1642677898
+/
+185.196.57.184.elche.cableworld.es
+0 1 1 29589 1 1642735954
+/
+154.21.21.6
+0 135 22 1897308 1 1642690475
+-
+msnbot-157-55-39-159.search.msn.com
+0 1 1 30857 1 1643443050
+/
+176.53.217.144
+0 2 1 29589 1 1642748953
+/
+srv1.whogohost.com
+0 2 2 0 2 1643418820
+/
+146.70.65.140
+0 897 111 4380673 7 1642784254
+-
+181.214.240.31
+0 3 3 103775 0 0
+-
+197.210.52.208
+0 7 1 6377 0 0
+-
+cpe105611800c09-cm105611800c07.cpe.net.cable.rogers.com
+0 134 84 2630806 1 1642986477
+-
+197.210.70.200
+0 34 27 1135538 0 0
+-
+fwdproxy-lla-116.fbsv.net
+0 1 1 6377 0 0
+-
+fwdproxy-atn-001.fbsv.net
+0 1 1 6377 0 0
+-
+65.154.226.165
+0 34 10 706026 1 1642767360
+/
+95-108-213-52.spider.yandex.com
+0 1 1 90903 1 1642793594
+/wallet.html
+63.141.48.67
+0 30 6 359391 1 1643392971
+/
+162-205-203-233.lightspeed.tukrga.sbcglobal.net
+0 17 5 353014 1 1643408902
+/
+85.208.4.114.mixvoip.solutions
+0 19 5 351746 1 1642763693
+/
+unn-156-146-47-13.cdn77.com
+0 27 5 1423 1 1642764426
+-
+194.117.18.99
+0 29 5 351746 1 1642720362
+/
+87-250-224-164.spider.yandex.com
+0 1 1 2923 0 0
+-
+197.210.78.102
+0 11 2 220977 0 0
+-
+198.240.91.14
+0 1 1 2595 0 0
+-
+181.214.62.32
+0 4 4 345369 1 1642705293
+/
+google-proxy-64-233-172-12.google.com
+0 7 2 101180 0 0
+-
+msnbot-157-55-39-130.search.msn.com
+0 2 0 0 0 0
+-
+pool-74-97-1-2.prvdri.fios.verizon.net
+0 117 85 2631080 1 1643155380
+-
+c-76-21-220-80.hsd1.md.comcast.net
+0 138 84 2630806 1 1643201623
+-
+103.107.197.57
+0 77 3 250566 1 1642720874
+/
+176-92-79-196.adsl.cyta.gr
+0 192 87 2858703 1 1642703229
+/
+105.112.70.95
+0 136 2 678 1 1643416394
+-
+149.154.161.3
+0 1 0 0 1 1642841490
+-
+host-197.43.77.43.tedata.net
+0 109 84 2630806 1 1643018109
+-
+136-36-77-186.googlefiber.net
+0 148 90 2638738 2 1643414959
+-
+89.104.110.97
+0 2 1 30857 1 1642888380
+/
+154.117.105.182
+0 55 5 353014 1 1643331594
+/
+197.210.45.148
+0 29 5 353014 1 1643416285
+/
+176.113.42.204
+0 2 1 30856 1 1642806775
+/
+209.126.88.94
+0 30 6 359391 1 1643411493
+/
+mobile-107-77-232-12.mobile.att.net
+0 114 84 2630806 1 1643406775
+-
+207.102.138.19
+0 1 1 6377 0 0
+-
+ip-54-36-148-35.a.ahrefs.com
+0 1 0 0 0 0
+-
+unn-143-244-38-5.datapacket.com
+0 89 83 2379815 1 1643269659
+-
+google-proxy-64-233-172-14.google.com
+0 7 3 251834 1 1643087467
+/
+natp-128-119-202-133.wireless.umass.edu
+0 17 5 353014 1 1643310965
+/
+unn-143-244-38-20.datapacket.com
+0 132 88 2726276 1 1643244477
+-
+tor-exit-anonymizer.appliedprivacy.net
+0 1 1 2651 1 1642617993
+/
+146.70.65.135
+0 88 5 353014 3 1643189790
+-
+197.210.64.254
+0 211 85 2637183 2 1643288409
+-
+fwdproxy-ldc-118.fbsv.net
+0 1 0 0 1 1643035041
+-
+fwdproxy-ftw-029.fbsv.net
+0 1 0 0 1 1643058226
+-
+unn-143-244-37-81.datapacket.com
+0 10 4 1408 1 1643270205
+-
+105.112.176.23
+0 32 7 414728 1 1643290849
+/
+197.210.78.122
+0 43 27 884249 1 1642784176
+-
+87-250-224-161.spider.yandex.com
+0 2 2 123152 2 1642846206
+/wallet.html
+47.243.235.114
+0 2 2 37234 1 1643325369
+/
+198.240.89.182
+0 2 2 249239 1 1642945579
+/
+88.144.8.95
+0 2 2 61714 2 1642981603
+/
+host-197.58.200.250.tedata.net
+0 110 84 2630806 1 1642948874
+-
+ec2-34-221-186-43.us-west-2.compute.amazonaws.com
+0 1 1 30857 1 1643199791
+/
+153.100.182.12
+0 17 5 353014 1 1643408309
+/
+cache.google.com
+0 17 5 353014 1 1643460810
+/
+fwdproxy-rva-020.fbsv.net
+0 1 0 0 1 1643189572
+-
+216.19.206.220
+0 3 0 0 0 0
+-
+8.218.77.49
+0 2 2 37234 1 1643325367
+/
+fwdproxy-rva-120.fbsv.net
+0 1 0 0 1 1643076201
+-
+eel.wghservers.com
+0 96 81 2378972 1 1642857742
+-
+197.210.52.221
+0 1 1 90903 1 1642842793
+/wallet.html
+181.214.190.63
+0 3 1 6377 0 0
+-
+181.214.125.157
+0 1 0 0 0 0
+-
+fwdproxy-pnb-015.fbsv.net
+0 1 0 0 1 1643059251
+-
+146.70.65.150
+0 29 1 30857 1 1643270575
+/
+102.91.5.135
+0 31 17 342480 1 1643367279
+/
+crawl-66-249-66-83.googlebot.com
+0 1 0 0 0 0
+-
+168.151.194.148
+0 3 0 0 0 0
+-
+204.80-203-116.customer.lyse.net
+0 17 5 353014 1 1643329189
+/
+102.89.3.55
+0 32 30 598214 0 0
+-
+185-69-253-137.mariposanet.es
+0 133 89 2632491 1 1643292414
+-
+r-199-16-157-183.twttr.com
+0 5 2 123153 1 1642876836
+/wallet.html
+ec2-54-228-173-74.eu-west-1.compute.amazonaws.com
+0 2 1 2651 1 1642627722
+/
+46.204.48.19.nat.umts.dynamic.t-mobile.pl
+0 1 1 30857 1 1642956242
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+197.211.59.102
+0 53 0 0 1 1643414422
+/
+213-180-203-86.spider.yandex.com
+0 2 1 30857 1 1643424761
+/
+unn-37-19-198-118.datapacket.com
+0 217 0 0 2 1643448925
+-
+ec2-54-212-33-103.us-west-2.compute.amazonaws.com
+0 1 1 30857 1 1643460729
+/
+ip-037-201-192-113.um10.pools.vodafone-ip.de
+0 102 84 2630806 1 1643418034
+-
+197.210.65.244
+0 14 14 1052665 1 1643454369
+/
+87-250-224-60.spider.yandex.com
+0 1 1 30857 1 1643424821
+/
+msnbot-157-55-39-159.search.msn.com
+0 1 1 30857 1 1643443050
+/
+srv1.whogohost.com
+0 1 1 0 1 1643418820
+/
+msnbot-157-55-39-130.search.msn.com
+0 2 0 0 0 0
+-
+105.112.70.95
+0 136 2 678 1 1643416394
+-
+136-36-77-186.googlefiber.net
+0 8 1 297 1 1643414959
+-
+197.210.45.148
+0 29 5 353014 1 1643416285
+/
+cache.google.com
+0 17 5 353014 1 1643460810
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://syncserver-wallet.com/
+0 4646
+https://www.google.com/
+0 6
+- (Direct Request)
+0 428
+www.ask.com
+0 1
+https://syncserver-wallet.com/foot.css
+0 1662
+https://syncserver-wallet.com/wallet.html
+0 8502
+android-app://org.telegram.messenger/
+0 1
+www.google.com
+0 1
+https://eel.wghservers.com:2083/
+0 9
+https://l.facebook.com/
+0 1
+http://syncserver-wallet.com
+0 1
+https://syncserver-wallet.com/dApps.html
+0 3
+https://syncserver-wallet.com/wallets.html
+0 4
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/95.0.4638.50 Mobile/15E
+0 26
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+0 17
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Mobile/15E148 
+0 766
+Mozilla/5.0 (X11; CrOS aarch64 14324.62.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.77 Safari/537.36
+0 17
+Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+0 110
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+0 561
+Mozilla/5.0 (Linux; Android 9; SM-G9500) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36
+0 17
+Twitterbot/1.0
+0 5
+okhttp/4.9.1
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36
+0 87
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 
+0 1059
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 1
+fasthttp
+0 8
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Mobile/15E14
+0 134
+Mozilla/5.0 (Linux; Android 9; GM 9 Pro Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
+0 15
+WhatsApp/2.21.243.1 i
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/97.0.4692.84 Mobile/15E
+0 41
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36
+0 34
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.0 Chrome/92.0.4515
+0 17
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+0 118
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 4
+cortex/1.0
+0 5
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 AppEngine
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+0 133
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 10; Android SDK built for x86 Build/OSM1.180201.023) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
+0 309
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Mobile/15E148 
+0 212
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 
+0 551
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36 OPR/64.0.3
+0 1
+Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+0 4
+Mozilla/5.0 (Linux; Android 10; Pixel 2 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.98 Mobile Safari/537.36
+0 19
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.
+0 130
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+0 17
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36
+0 18
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:55.0) Gecko/20100101 Firefox/55.0
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Mobile/15E148 Sa
+0 3770
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3450.0 Iron Safari/537.36 Puffin/7.5.3.392 E
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 11; SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.98 Mobile Safari/537.36
+0 89
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
+0 493
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Mobile/15E148 
+0 488
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
+0 223
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 
+0 206
+curl/7.58.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
+0 240
+AppEngine-Google; (+http://code.google.com/appengine; appid: s~virustotalcloud)
+0 1
+Mozilla/5.0 (Linux; Android 9; GM 9 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36
+0 208
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebook
+0 48
+Mozilla/5.0 (Linux; Android 8.1.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Mobile Safari/537.36
+0 106
+Dalvik/2.1.0 (Linux; U; Android 9; GM 9 Pro Build/PKQ1.180904.001)
+0 1
+Screaming Frog SEO Spider/9.4
+0 4
+WhatsApp/2.21.19.21 A
+0 3
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 23
+Apache-HttpClient/5.1.2 (Java/11.0.13)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96.0
+0 632
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1
+0 272
+Mozilla/5.0 (Linux; Android 11; SM-A715F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.87 Mobile Safari/537.36
+0 109
+Mozilla/5.0 (Linux; Android 12; SM-G996B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.98 Mobile Safari/537.36
+0 19
+TelegramBot (like TwitterBot)
+0 11
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1
+0 192
+Mozilla/5.0 (Linux; Android 10; TECNO CD7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.92 Mobile Safari/537.36
+0 17
+Mozilla/5.0 (Linux; Android 10; SM-N960U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+0 17
+Mozilla/5.0 (X11; Linux x86_64; rv:83.0) Gecko/20100101 Firefox/83.0
+0 2
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 23
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Sa
+0 134
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+0 112
+Mozilla/5.0 (Linux; Android 11; V2036) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Mobile Safari/537.36
+0 102
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Mobile/15E14
+0 574
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15
+0 29
+Mozilla/5.0 (Linux; Android 9; GM 9 Pro Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mo
+0 195
+Mozilla/5.0 (Linux; Android 10; SM-G960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.98 Mobile Safari/537.36
+0 17
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Sa
+0 815
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+0 110
+Mozilla/5.0 (Linux; Android 9; vivo 1906 Build/PKQ1.190616.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 130
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E14
+0 135
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+0 120
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_8_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Mobile/15E14
+0 17
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36
+0 1020
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+0 4
+Mozilla/5.0 (Linux; Android 11; SM-A326U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+0 87
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

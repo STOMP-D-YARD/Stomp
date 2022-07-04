@@ -1,0 +1,771 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202201 will be lost/reset.
+# Last config file used to build this data file was /home/syncserv/tmp/awstats/awstats.syncserver-wallet.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2018                
+POS_TIME 2701                
+POS_VISITOR 17671               
+POS_DAY 23027               
+POS_DOMAIN 3489                
+POS_LOGIN 4029                
+POS_ROBOT 4184                
+POS_WORMS 4706                
+POS_EMAILSENDER 4837                
+POS_EMAILRECEIVER 4980                
+POS_SESSION 23364               
+POS_SIDER 23565               
+POS_FILETYPES 5115                
+POS_DOWNLOADS 5317                
+POS_OS 5365                
+POS_BROWSER 5735                
+POS_SCREENSIZE 6992                
+POS_UNKNOWNREFERER 7066                
+POS_UNKNOWNREFERERBROWSER 7476                
+POS_ORIGIN 7711                
+POS_SEREFERRALS 7849                
+POS_PAGEREFS 7993                
+POS_SEARCHWORDS 8141                
+POS_KEYWORDS 8293                
+POS_MISC 2364                
+POS_ERRORS 8352                
+POS_CLUSTER 3885                
+POS_SIDER_404 8463                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220129125207 305 81217 10657752004662
+FirstTime 20220119175015
+LastTime 20220129125207
+LastUpdate 20220129130930 305 0 305 0 0
+TotalVisits 143                 
+TotalUnique 119                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 140                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 81 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 37 790 12601419 528 780 970187
+1 4 4 123425 19 20 30857
+2 10 166 2766098 61 86 111700
+3 3 3 90035 0 2 6377
+4 7 169 5369040 102 123 117796
+5 0 0 0 1 2 30857
+6 2 2 0 92 92 0
+7 4 4 92571 6 13 419837
+8 7 166 2746462 81 114 37234
+9 10 310 7572696 157 231 87222
+10 14 47 2360708 30 39 157252
+11 4 84 405834 16 23 129521
+12 10 91 1590523 95 146 265710
+13 9 93 3311883 72 98 612074
+14 10 88 2613648 25 41 702229
+15 17 190 4783600 323 383 247609
+16 1 1 30857 3 3 0
+17 20 192 2250455 349 425 351865
+18 51 147 3994167 333 499 1583646
+19 10 97 761971 53 73 49987
+20 0 1 542475 3 5 121885
+21 4 82 125384 14 15 0
+22 2 4 542475 14 16 93433
+23 26 519 11237689 215 336 327273
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 23
+us 122 1249 23715769
+gb 45 965 10593125
+cn 23 76 4188569
+ng 22 570 14389911
+zz 9 9 576
+id 9 175 5651666
+ca 6 9 439208
+kr 5 5 61714
+ph 3 84 2624753
+cl 2 5 565075
+za 2 80 2461320
+jp 2 2 61714
+ru 2 3 63040
+at 1 1 30856
+hk 1 1 0
+my 1 4 346637
+in 1 1 0
+ro 1 1 29589
+mu 1 3 251834
+it 1 4 345488
+es 1 1 30857
+ua 1 1 30857
+de 1 1 30857
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+Googlebot/ 35 2282955 20220129124513 0
+bingbot/ 8 431172 20220127204812 0
+AhrefsBot/ 7 277438 20220128183321 0
+spider 5 345369 20220121074050 0
+baidu 4 345488 20220120171518 0
+no_user_agent 2 60446 20220124075249 0
+TelegramBot 2 94939 20220121113905 0
+Apache\-HttpClient/ 1 29589 20220120222131 0
+bot[\s_+:,\.\;\/\\-] 1 30857 20220129002759 0
+facebookexternalhit/ 1 30856 20220121120052 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 238 25505219 0 0
+jpg 480 2842888 0 0
+png 2121 20248364 0 0
+html 240 11072642 0 0
+js 149 6241882 0 0
+Unknown 13 924 0 0
+php 9 1496 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 21
+macosx8 1 1
+macosx15 1087 64
+macosx9 1 1
+Unknown 20 20
+androidfroyo 1 1
+androidnougat 1 1
+android 83 2
+win10 398 74
+macosx11 4 4
+linux 95 11
+macosx12 2 2
+macosx14 4 4
+winxp 2 2
+androidpie 2 2
+linuxubuntu 1 1
+win2000 1 1
+android10 84 3
+win7 14 14
+androidoreo 1 1
+ios_iphone 1447 52
+androidmarshmallow 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 59
+safari11.1.2 4 4
+chrome80.0.3987.149 3 3
+android 1 1
+safari15.1 255 9
+chrome76.0.3809.132 4 4
+chrome31.0.1650.16 1 1
+safari7.0.3 1 1
+chrome96.0.4664.110 6 3
+firefox26.0 1 1
+firefox94.0 1 1
+chrome90.0.4430.72 2 2
+chrome79.0.3945.117 1 1
+chrome78.0.3904.87 4 1
+chrome59.0.3071.115 2 2
+chrome89.0.4389.114 3 3
+chrome66.0.3359.181 1 1
+safari14.1.2 914 56
+safari14.0.3 79 1
+safari10.0 1 1
+chrome 1 1
+chrome11.0.696.71 2 2
+chrome80.0.3987 1 1
+chrome74.0.3729.169 2 2
+chrome21.0.1180.83 10 10
+chrome76.0.3809.100 1 1
+chrome83.0.4103.106 14 14
+chrome80.0.3987.119 1 1
+msie10.0 1 1
+edge12 180 8
+chrome83.0.4103.97 2 2
+chrome83.0.4103.116 1 1
+Unknown 14 14
+firefox57.0 4 1
+chrome89.0.4389.128 1 1
+chrome26.0.1410.65 1 1
+firefox46.0 1 1
+netscape5.0 1 1
+chrome76.0.3669.88 1 1
+chrome95.0.4638.69 94 7
+chrome97.0.4692.99 8 2
+safari 9 3
+safari12.1.2 84 3
+mozilla 5 5
+firefox52.0 1 1
+chrome75.0.3770.143 83 2
+safari15.2 936 33
+chrome62.0.3202.84 1 1
+chrome19.0.1084.9 1 1
+firefox21.0 1 1
+chrome97.0.4692.71 340 13
+chrome98.0.4758.60 84 3
+chrome90.0.4430.91 1 1
+chrome60.0.3112.113 1 1
+chrome78.0.3904.108 6 6
+firefox65.0 4 4
+chrome36.0.1985.67 1 1
+chrome72.0.3626.119 62 12
+chrome85.0.4183.102 4 1
+chrome96.0.4664.45 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+python-requests/2.27.1 20220128014718
+WhatsApp/2.21.19.21_A 20220121115507
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20220119184356
+Mozilla/5.0_Firefox/26.0 20220122020839
+Python/3.6_aiohttp/3.5.4 20220123195800
+Mozilla/5.0 20220122134204
+Cpanel-HTTP-Client/1.0 20220119184330
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+WhatsApp/2.21.19.21_A 20220121115507
+python-requests/2.27.1 20220128014718
+Python/3.6_aiohttp/3.5.4 20220123195800
+Cpanel-HTTP-Client/1.0 20220119184330
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 219 219
+From1 2 2
+From2 0 0
+From3 0 0
+From4 41 3029
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 30 2130068
+404 3354 0
+302 18 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 246
+/static/media/ETH.95ed5ade.svg 2 http://syncserver-wallet.com/foot.css
+/wp-includes/wlwmanifest.xml 4 -
+/fonts/Gilroy-Heavy.eot 7 -
+/WP 2 -
+/fonts/Gilroy-BoldItalic.woff 4 -
+/WalletAPI_wallets_files/saved_resource.html 79 http://syncserver-wallet.com/
+/web/wp-includes/wlwmanifest.xml 3 -
+/fonts/SFMono-Semiboldd41dd41d.html 4 -
+/fonts/Gilroy-BlackItalic.woff 4 -
+/static/media/DownArrowPrimary@2x.51db046e.png 2 http://syncserver-wallet.com/foot.css
+/2019/wp-includes/wlwmanifest.xml 3 -
+/apple-touch-icon.png 2 -
+/fonts/Gilroy-ExtraBold.eot 8 -
+/js1.js 6 http://syncserver-wallet.com/
+/wordpress/wp-includes/wlwmanifest.xml 4 -
+/fonts/Gilroy-Black.svg 82 http://syncserver-wallet.com/
+/WordPress 2 -
+/main.css 5 http://syncserver-wallet.com/
+/humans.txt 1 -
+/wp/wp-includes/wlwmanifest.xml 4 -
+/SHOP 2 -
+/wp/wp-admin/install.php 2 -
+/wall 1 -
+/fonts/SFMono-Boldd41dd41d.html 4 -
+/fonts/Gilroy-BlackItalic.woff2 4 -
+/test/wp-includes/wlwmanifest.xml 3 -
+/fonts/Gilroy-BoldItalic.eot 8 -
+/fonts/Gilroy-SemiBoldItalic.eot 8 -
+/fonts/SFProText-Mediumd41dd41d.html 4 -
+/fonts/Gilroy-BoldItalic.woff2 4 -
+/static/media/ring-primary.8a010d49.svg 2 http://syncserver-wallet.com/foot.css
+/fonts/Gilroy-BlackItalic.ttf 4 -
+/fonts/Gilroy-Medium.ttf 4 -
+/media/wp-includes/wlwmanifest.xml 2 -
+/wp1/wp-includes/wlwmanifest.xml 3 -
+/static/media/LTC.afd1bc4f.svg 2 http://syncserver-wallet.com/foot.css
+/Test 2 -
+/fonts/SFProText-Bold-2.html 3 -
+/fonts/SFMono-Medium.html 4 -
+/fonts/SFProText-Medium-3.html 4 -
+/2018 2 -
+/fonts/SFProText-Medium-5.html 3 -
+/old-site 2 -
+/fonts/SFMono-Bold-3.html 4 -
+/fonts/Gilroy-Black.ttf 4 -
+/oldsite 2 -
+/fonts/Gilroy-Regular.woff 112 http://syncserver-wallet.com/
+/fonts/Gilroy-ExtraBold.ttf 4 -
+/blog 2 -
+/new/wp-admin/install.php 2 -
+/static/media/view.94ecd04d.svg 2 http://syncserver-wallet.com/foot.css
+/fonts/SFProText-Semibold-3.html 4 -
+/fonts/Gilroy-ExtraBold.woff 87 http://syncserver-wallet.com/
+/bc 2 -
+/fonts/SFProText-Medium-4.html 4 -
+/static/media/Edit@2x.33961dcb.png 2 http://syncserver-wallet.com/foot.css
+/style.css 12 http://syncserver-wallet.com/
+/fonts/SFProText-Semibold-5.html 4 -
+/Shop 2 -
+/wp-login.php 2 -
+/sitio 2 -
+/js2w.js 8 http://syncserver-wallet.com/
+/Site 2 -
+/fonts/Gilroy-RegularItalic.woff2 4 -
+/fonts/SFProText-Bold-3.html 3 -
+/fonts/Gilroy-Light.ttf 4 -
+/fonts/Gilroy-Regular.eot 8 -
+/w 1 -
+/2021 2 -
+/rand.html 2 http://syncserver-wallet.com/
+/static/media/ring.7cd67b6e.svg 2 http://syncserver-wallet.com/foot.css
+/fonts/Gilroy-SemiBold.ttf 4 -
+/Backup 2 -
+/fonts/Gilroy-Heavy.woff 104 http://syncserver-wallet.com/
+/fonts/Gilroy-Bold.eot 8 -
+/fonts/Gilroy-Bold.woff 120 http://syncserver-wallet.com/
+/fonts/Gilroy-HeavyItalic.eot 8 -
+/fonts/SFProText-Semibold.html 4 -
+/fonts/Gilroy-SemiBoldItalic.woff 4 -
+/fonts/Gilroy-Light.woff2 109 http://syncserver-wallet.com/
+/fonts/SFProText-Regular.html 4 -
+/fonts/Gilroy-MediumItalic.woff 4 -
+/2019 2 -
+/fonts/Gilroy-Medium.woff2 111 http://syncserver-wallet.com/
+/fonts/Gilroy-MediumItalic.svg 2 http://syncserver-wallet.com/foot.css
+/fonts/SFProText-Medium-2.html 4 -
+/fonts/SFMono-Medium-3.html 4 -
+/fonts/Gilroy-SemiBold.woff 123 http://syncserver-wallet.com/
+/fonts/SFMono-Semibold-2.html 4 -
+/fonts/SFProText-Semibold-2.html 4 -
+/blog/wp-admin/install.php 2 -
+/fonts/SFMono-Regular-2.html 4 -
+/sito/wp-includes/wlwmanifest.xml 3 -
+/wp 2 -
+/old 2 -
+/fonts/SFProText-Regular-3.html 4 -
+/New 2 -
+/fonts/Gilroy-ExtraBoldItalic.eot 8 -
+/fonts/Gilroy-BoldItalic.svg 2 http://syncserver-wallet.com/foot.css
+/fonts/SFMono-Regular-3.html 4 -
+/SITE 2 -
+/wp-admin/install.php 1 -
+/fonts/SFMono-Bold-4.html 4 -
+/fonts/Gilroy-Light.svg 83 http://syncserver-wallet.com/
+/Wordpress 2 -
+/img/icons/arrow-down%402x.html 3 -
+/shop/wp-includes/wlwmanifest.xml 4 -
+/dApps.html 8 http://syncserver-wallet.com/wallet.html
+/fonts/SFProText-Bold-4.html 3 -
+/fonts/Gilroy-ExtraBold.woff2 89 http://syncserver-wallet.com/
+/foot.css 2 http://syncserver-wallet.com/
+/fonts/Gilroy-BlackItalic.eot 8 -
+/sito 2 -
+/Old 2 -
+/fonts/Gilroy-ExtraBoldItalic.woff2 4 -
+/main 2 -
+/Www 2 -
+/bak 2 -
+/fonts/Gilroy-LightItalic.eot 8 -
+/demo 2 -
+/sitemap.xml 2 -
+/fonts/Gilroy-SemiBoldItalic.ttf 4 -
+/fonts/SFMono-Bold-2.html 4 -
+/fonts/Gilroy-BoldItalic.ttf 4 -
+/fonts/Gilroy-Medium.eot 8 -
+/static/media/UpArrowPrimary@2x.4d5e19e5.png 2 http://syncserver-wallet.com/foot.css
+/fonts/SFMono-Mediumd41dd41d.html 4 -
+/fonts/SFProText-Bold.html 3 -
+/fonts/SFProText-Semiboldd41dd41d.html 4 -
+/fonts/Gilroy-LightItalic.woff2 4 -
+/shop 2 -
+/fonts/SFProText-Medium.html 4 -
+/fonts/SFMono-Semibold-5.html 4 -
+/logo192.png 1 -
+/fonts/Gilroy-Bold.ttf 4 -
+/static/media/wallet.1a157094.svg 2 http://syncserver-wallet.com/foot.css
+/sync.php 1 http://syncserver-wallet.com/
+/fonts/Gilroy-Heavy.svg 82 http://syncserver-wallet.com/
+/news/wp-admin/setup-config.php 2 -
+/wp-old 2 -
+/NEW 2 -
+/fonts/Gilroy-Regular.svg 86 http://syncserver-wallet.com/
+/new 2 -
+/fonts/Gilroy-Black.eot 8 -
+/fonts/Gilroy-Black.woff2 86 http://syncserver-wallet.com/
+/Blog 2 -
+/fonts/Gilroy-ExtraBoldItalic.woff 4 -
+/2020/wp-includes/wlwmanifest.xml 1 -
+/fonts/SFProText-Regular-2.html 4 -
+/blog/wp-admin/setup-config.php 2 -
+/fonts/SFMono-Regular-4.html 4 -
+/fonts/Gilroy-Medium.svg 86 http://syncserver-wallet.com/
+/cms/wp-includes/wlwmanifest.xml 4 -
+/wordpress/wp-admin/setup-config.php 2 -
+/WWW 2 -
+/Wp 2 -
+/fonts/Gilroy-Heavy.woff2 107 http://syncserver-wallet.com/
+/news/wp-includes/wlwmanifest.xml 3 -
+/WORDPRESS 2 -
+/social-card.html 5 -
+/fonts/SFMono-Regular.html 4 -
+/fonts/Gilroy-RegularItalic.svg 2 http://syncserver-wallet.com/foot.css
+/www 2 -
+/fonts/Gilroy-Light.woff 108 http://syncserver-wallet.com/
+/fonts/SFMono-Semibold.html 4 -
+/fonts/Gilroy-Heavy.ttf 4 -
+/fonts/SFMono-Medium-4.html 4 -
+/bk 2 -
+/wordpress 2 -
+/fonts/Gilroy-ExtraBoldItalic.svg 2 http://syncserver-wallet.com/foot.css
+/website/wp-includes/wlwmanifest.xml 3 -
+/static/media/Resume@2x.8828308d.png 2 http://syncserver-wallet.com/foot.css
+/fonts/SFProText-Bold-5.html 3 -
+/fonts/Gilroy-Regular.woff2 112 http://syncserver-wallet.com/
+/2018/wp-includes/wlwmanifest.xml 3 -
+/fonts/Gilroy-Bold.woff2 122 http://syncserver-wallet.com/
+/img/icons/checkmark-green%402x.html 3 -
+/BACKUP 2 -
+/fonts/Gilroy-MediumItalic.eot 8 -
+/fonts/SFMono-Medium-2.html 4 -
+/static/media/Conversation@2x.a0980de6.png 2 http://syncserver-wallet.com/foot.css
+/fonts/Gilroy-ExtraBold.svg 84 http://syncserver-wallet.com/
+/fonts/Gilroy-BlackItalic.svg 2 http://syncserver-wallet.com/foot.css
+/main.ba3fecb7.chunk.css.map 2 -
+/news/wp-admin/install.php 2 -
+/fonts/Gilroy-ExtraBoldItalic.ttf 4 -
+/fonts/Gilroy-Black.woff 85 http://syncserver-wallet.com/
+/static/media/Pause@2x.b89c0963.png 2 http://syncserver-wallet.com/foot.css
+/static/media/checked.0b4919fa.svg 2 http://syncserver-wallet.com/foot.css
+/img/safemoon.jpg 43 http://syncserver-wallet.com/
+/fonts/Gilroy-SemiBold.eot 8 -
+/new/wp-admin/setup-config.php 2 -
+/fonts/SFProText-Regular-4.html 4 -
+/fonts/Gilroy-SemiBoldItalic.woff2 4 -
+/fonts/SFMono-Semibold-3.html 4 -
+/BLOG 2 -
+/fonts/SFProText-Regular-5.html 4 -
+/fonts/SFMono-Bold.html 4 -
+/fonts/Gilroy-SemiBold.svg 87 http://syncserver-wallet.com/
+/fonts/Gilroy-HeavyItalic.woff2 4 -
+/fonts/Gilroy-RegularItalic.eot 8 -
+/blog/wp-includes/wlwmanifest.xml 4 -
+/fonts/SFProText-Regulard41dd41d.html 4 -
+/fonts/Gilroy-HeavyItalic.ttf 4 -
+/site/wp-includes/wlwmanifest.xml 3 -
+/bac 2 -
+/fonts/Gilroy-LightItalic.svg 2 http://syncserver-wallet.com/foot.css
+/fonts/SFMono-Medium-5.html 4 -
+/fonts/Gilroy-LightItalic.woff 4 -
+/fonts/Gilroy-SemiBoldItalic.svg 2 http://syncserver-wallet.com/foot.css
+/fonts/Gilroy-HeavyItalic.svg 2 http://syncserver-wallet.com/foot.css
+/TEST 2 -
+/wp-admin/setup-config.php 2 -
+/wordpress/wp-admin/install.php 2 -
+/wp/wp-admin/setup-config.php 2 -
+/fonts/Gilroy-Bold.svg 87 http://syncserver-wallet.com/
+/xmlrpc.php 3 -
+/WalletAPI_wallets_files/metamask.023762b6.html 80 http://syncserver-wallet.com/
+/test 2 -
+/fonts/Gilroy-RegularItalic.woff 4 -
+/wallets.html 9 -
+/fonts/SFMono-Regulard41dd41d.html 4 -
+/fonts/SFMono-Regular-5.html 4 -
+/fonts/SFProText-Semibold-4.html 4 -
+/OLD 2 -
+/fonts/SFMono-Bold-5.html 4 -
+/fonts/SFProText-Boldd41dd41d.html 3 -
+/fonts/Gilroy-MediumItalic.ttf 4 -
+/fonts/Gilroy-Regular.ttf 4 -
+/site 2 -
+/apple-touch-icon-precomposed.png 2 -
+/fonts/Gilroy-SemiBold.woff2 123 http://syncserver-wallet.com/
+/fonts/Gilroy-Medium.woff 110 http://syncserver-wallet.com/
+/fonts/Gilroy-LightItalic.ttf 4 -
+/fonts/Gilroy-RegularItalic.ttf 4 -
+/static/media/BTC.696ee08a.svg 2 http://syncserver-wallet.com/foot.css
+/jquery.js 2 http://syncserver-wallet.com/
+/wp2/wp-includes/wlwmanifest.xml 3 -
+/2020 2 -
+/fonts/Gilroy-HeavyItalic.woff 4 -
+/static/media/View@2x.4b98c9e8.png 2 http://syncserver-wallet.com/foot.css
+/fonts/Gilroy-MediumItalic.woff2 4 -
+/fonts/Gilroy-Light.eot 8 -
+/backup 2 -
+/robots.txt 26 -
+/fonts/SFMono-Semibold-4.html 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 140
+129.205.124.14 23 158 3032678 20220120185220
+146.70.65.140 20 692 6464267 20220121113836
+154.21.21.243 11 327 1914802 20220120000513
+54.36.162.160 9 95 1310763 20220124152048
+51.195.90.229 9 95 1310763 20220124173427
+172.31.30.179 9 9 576 20220119184330
+154.21.22.6 8 175 2510085 20220120002211
+105.112.178.100 8 166 1437163 20220120175527
+54.237.250.240 6 6 183874 20220128130554
+197.211.59.102 5 74 2684195 20220122093118
+156.146.46.200 5 85 637002 20220120222502
+128.90.159.118 4 4 123428 20220124093056
+112.210.230.142 3 84 2624753 20220123041656
+154.21.21.219 3 87 2463660 20220120185522
+102.129.152.27 3 84 2717680 20220120232813
+111.7.100.23 3 9 879544 20220121102304
+116.206.229.135 3 3 92571 20220124142203
+146.70.65.150 3 84 298 20220128194914
+5.62.49.94 3 3 92568 20220122014130
+34.126.136.110 3 3 92571 20220125023351
+146.70.65.135 3 84 2624705 20220126093730
+105.112.22.200 3 84 2623322 20220121152930
+128.199.146.202 3 3 92571 20220124184351
+36.99.136.138 3 7 138680 20220121233824
+164.68.96.236 2 2 123145 20220123195800
+181.215.41.172 0 1 218382 
+36.99.136.141 1 2 51625 20220121102039
+34.203.248.97 1 4 345369 20220120231404
+118.43.62.103 1 1 0 20220123140545
+206.204.53.152 0 1 94803 
+36.110.211.67 1 1 29708 20220120171611
+38.18.60.117 1 1 30857 20220125123422
+18.159.196.172 1 1 87 20220119184356
+146.70.65.141 2 2 5302 20220119181030
+191.101.214.48 1 1 30857 20220123134541
+168.151.108.2 1 1 30857 20220125185521
+76.164.198.173 1 1 92288 20220120120553
+102.89.0.125 0 2 0 
+154.16.101.159 1 1 30857 20220122190810
+37.120.193.54 1 1 29589 20220121024639
+209.95.169.24 0 1 2595 
+222.238.254.40 1 1 30857 20220122140311
+131.147.11.93 1 1 30857 20220126102028
+161.35.89.202 1 1 29589 20220120184608
+196.251.228.29 2 80 2461320 20220120151158
+54.212.33.103 1 1 30857 20220129125207 20220129125207 /
+211.244.187.239 1 1 30857 20220123140608
+154.21.21.98 2 80 2460997 20220119233207
+80.120.129.210 1 1 30856 20220122020839
+168.119.8.234 1 1 29708 20220120172130
+197.210.29.245 2 83 2624429 20220122135814
+197.210.85.154 2 45 1071053 20220121003443
+36.99.136.139 1 9 389242 20220121233604
+8.218.41.210 1 1 30857 20220127231608
+45.132.227.135 1 1 0 20220121044403
+71.92.198.93 1 1 30857 20220123074205
+47.243.15.50 1 1 30857 20220127231606
+181.215.51.108 0 1 94803 
+54.245.48.251 1 1 30857 20220127092725
+161.35.89.141 1 1 92288 20220120024616
+52.13.111.143 1 1 29589 20220121000335
+197.210.79.239 0 8 815269 
+15.204.140.66 2 2 184576 20220120100750
+40.117.185.219 2 2 61714 20220127031046
+3.145.167.168 1 1 2651 20220119184631
+154.16.121.22 0 1 2595 
+47.242.250.252 1 1 30857 20220122150845
+102.89.3.49 1 1 30856 20220121115118
+216.109.167.39 0 1 94803 
+47.242.25.22 1 1 30857 20220122104153
+123.233.115.26 1 1 30856 20220121142509
+219.255.224.84 1 1 0 20220128130549
+111.7.100.21 0 9 423104 
+54.203.73.198 1 1 2651 20220119185100
+64.64.245.150 2 2 0 20220123060051
+195.201.41.238 1 1 30856 20220122020020
+83.57.122.205 1 1 30857 20220124082712
+197.210.84.204 0 30 736831 
+197.210.76.209 1 1 30856 20220122080454
+35.165.200.29 1 4 346637 20220126102123
+168.151.110.59 0 1 2595 
+219.78.22.4 1 1 0 20220125072338
+42.83.147.43 1 1 30857 20220123165004
+69.25.58.56 1 1 2651 20220119195255
+197.210.28.97 1 79 2366793 20220120040213
+185.196.57.184 1 1 29589 20220121033247
+111.7.100.20 0 3 17930 
+34.76.199.156 1 1 30857 20220123151245
+38.108.182.5 1 1 2651 20220119195832
+171.13.14.75 1 2 248090 20220120172109
+34.212.242.226 1 1 30856 20220122000351
+161.35.89.74 1 1 2651 20220119184608
+136.36.77.186 2 83 2624429 20220128235114
+62.182.157.252 1 1 30857 20220123210422
+34.221.255.206 1 1 87 20220119184356
+86.7.204.3 1 1 0 20220128101537
+34.219.207.70 1 1 30857 20220126122225
+154.21.22.178 0 1 0 
+154.21.21.28 1 1 2651 20220119175015
+66.133.109.36 1 1 87 20220119184356
+1.239.103.244 1 1 0 20220126102005
+34.213.144.130 1 1 30857 20220129122606 20220129122606 /
+154.16.235.0 0 1 218382 
+102.89.3.132 1 1 30856 20220121115507
+211.123.228.251 1 1 30857 20220122140305
+171.13.14.12 0 2 97398 
+104.168.145.105 1 1 92288 20220120112457
+101.133.161.22 1 1 30857 20220123000458
+104.244.83.18 0 1 94803 
+172.103.161.13 1 4 346637 20220124041957
+35.165.215.140 1 4 346637 20220123154612
+102.89.0.157 1 2 0 20220121003545
+151.106.112.127 2 2 61714 20220122230609
+114.79.0.120 1 1 30857 20220128014718
+154.21.22.205 2 2 186815 20220120131336
+36.99.136.142 1 5 1025357 20220121233818
+161.35.89.180 1 1 30856 20220121184607
+113.210.54.126 1 4 346637 20220127003039
+185.51.23.198 0 1 2595 
+123.60.83.110 1 1 92288 20220120124105
+78.47.148.175 1 1 30857 20220124194658
+221.2.155.200 1 1 30857 20220122134204
+18.237.87.163 1 1 30857 20220124000848
+58.214.186.201 1 1 30857 20220124040418
+36.99.136.140 2 4 96093 20220121233654
+185.56.156.218 1 4 345488 20220120181456
+143.244.38.74 1 4 346637 20220125234937
+18.216.251.67 1 79 2366793 20220120024940
+102.129.152.26 2 83 2623035 20220122084338
+154.21.22.111 0 1 542475 
+181.215.222.126 0 1 218382 
+54.189.230.128 1 4 346637 20220123155355
+34.222.8.232 1 1 30857 20220129122634 20220129122634 /
+111.7.100.22 0 9 102819 
+102.129.130.118 0 1 218382 
+51.81.167.146 1 1 2651 20220119184430
+36.99.136.143 1 5 349836 20220121233559
+181.215.205.239 1 1 2651 20220119190228
+3.142.122.14 1 1 87 20220119184356
+198.240.89.242 1 1 29589 20220120190258
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20220119 33 338 3434356 17
+20220120 94 1788 32011431 32
+20220121 30 331 9560955 24
+20220122 21 189 6372729 16
+20220123 18 108 3973234 16
+20220124 31 206 3338447 11
+20220125 8 14 847559 6
+20220126 8 92 3063913 6
+20220127 6 9 500922 5
+20220128 10 172 2717298 7
+20220129 3 3 92571 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30mn-1h 3
+30s-2mn 7
+0s-30s 117
+2mn-5mn 5
+15mn-30mn 2
+5mn-15mn 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 17
+/ 182 7540514 121 99
+/wallet.html 33 2024876 6 13
+/rand.html 14 1323378 0 6
+/sync.php 9 1496 0 6
+http://syncserver-wallet.com:80/ 7 122160 7 7
+/.well-known/acme-challenge/e2pwIV6yOh0ZA8I0sVLlcIwNeO9tOC3z03q4Y8ljwao 4 348 4 4
+http://www.syncserver-wallet.com:80/ 3 30857 3 3
+/.well-known/acme-challenge/PL2DU1Y7TL1J-9S-J8OH4U_8VGWG1DPI 1 64 0 1
+/.well-known/acme-challenge/ELKYG5UZDVEZLGGM_-KLYFQG_FFFIV7- 1 64 1 0
+http://syncserver-wallet.com/ 1 30857 1 1
+/.well-known/acme-challenge/4P_5_Z05OCX5ZWIILOAD-BMD0F_JCZQW 1 64 0 0
+/.well-known/acme-challenge/6EBAN1D3UQAE4U5969DTB9Q6HARBHFW3 1 64 0 0
+/.well-known/acme-challenge/RZ9X394OY9LAHH2GM74M7S-EVAHE4MPM 1 64 0 0
+/.well-known/acme-challenge/ZU5Y7KLR4CPQOPDTEJ08MBLWJ9L6BYKM 1 64 0 0
+/.well-known/acme-challenge/OZ1I9E0C48Y2HGP40_5NTD99XWPWA38N 1 64 0 0
+/.well-known/acme-challenge/TG2U4_SM5CLSLTN-XK92TF21RKC_SX5D 1 64 0 0
+/.well-known/acme-challenge/4J07KKPFUHQ8XQ8TU7A6NSKDJ2VL998D 1 64 0 0
+END_SIDER
