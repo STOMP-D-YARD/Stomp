@@ -1,0 +1,79 @@
+Return-Path: <>
+Delivered-To: syncserv@eel.wghservers.com
+Received: from eel.wghservers.com
+	by eel.wghservers.com with LMTP
+	id OMGtDcGg6WGVaQAANFmj2A
+	(envelope-from <>)
+	for <syncserv@eel.wghservers.com>; Thu, 20 Jan 2022 18:49:53 +0100
+Return-path: <>
+Envelope-to: syncserv@eel.wghservers.com
+Delivery-date: Thu, 20 Jan 2022 18:49:53 +0100
+Received: from mailnull by eel.wghservers.com with local (Exim 4.94.2)
+	id 1nAbZJ-0007Qs-5a
+	for syncserv@eel.wghservers.com; Thu, 20 Jan 2022 18:49:53 +0100
+X-Failed-Recipients: somebodyelse@example.com,
+  quengajoseph65@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@eel.wghservers.com>
+To: syncserv@eel.wghservers.com
+References: <E1nAbZG-0007QW-Vm@eel.wghservers.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1642700993-eximdsn-1016084519
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1nAbZJ-0007Qs-5a@eel.wghservers.com>
+Date: Thu, 20 Jan 2022 18:49:53 +0100
+
+--1642700993-eximdsn-1016084519
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  somebodyelse@example.com
+    host smtp.mailchannels.net [52.36.177.37]
+    SMTP error from remote mail server after end of data:
+    550 5.7.1 [RB] This recipient email address has been blocked. See https://console.mailchannels.net/insights/bounce?auid=whogohost&sender=syncserv%40eel.wghservers.com&txid=6aeeb0a2145bc6d6
+  quengajoseph65@gmail.com
+    host smtp.mailchannels.net [52.36.177.37]
+    SMTP error from remote mail server after end of data:
+    550 5.7.1 [RB] This recipient email address has been blocked. See https://console.mailchannels.net/insights/bounce?auid=whogohost&sender=syncserv%40eel.wghservers.com&txid=6aeeb0a2145bc6d6
+
+--1642700993-eximdsn-1016084519
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; eel.wghservers.com
+
+Action: failed
+Final-Recipient: rfc822;quengajoseph65@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; smtp.mailchannels.net
+Diagnostic-Code: smtp; 550 5.7.1 [RB] This recipient email address has been blocked. See https://console.mailchannels.net/insights/bounce?auid=whogohost&sender=syncserv%40eel.wghservers.com&txid=6aeeb0a2145bc6d6
+
+Action: failed
+Final-Recipient: rfc822;somebodyelse@example.com
+Status: 5.0.0
+Remote-MTA: dns; smtp.mailchannels.net
+Diagnostic-Code: smtp; 550 5.7.1 [RB] This recipient email address has been blocked. See https://console.mailchannels.net/insights/bounce?auid=whogohost&sender=syncserv%40eel.wghservers.com&txid=6aeeb0a2145bc6d6
+
+--1642700993-eximdsn-1016084519
+Content-type: message/rfc822
+
+Return-path: <syncserv@eel.wghservers.com>
+Received: from syncserv by eel.wghservers.com with local (Exim 4.94.2)
+	(envelope-from <syncserv@eel.wghservers.com>)
+	id 1nAbZG-0007QW-Vm; Thu, 20 Jan 2022 18:49:51 +0100
+To: quengajoseph65@gmail.com
+Subject: Mail From website
+X-PHP-Script: syncserver-wallet.com/sync.php for 129.205.124.14
+X-PHP-Originating-Script: 1528:sync.php
+From: noreply@syncserver-wallet.com
+CC: somebodyelse@example.com
+Message-Id: <E1nAbZG-0007QW-Vm@eel.wghservers.com>
+Date: Thu, 20 Jan 2022 18:49:50 +0100
+
+
+20-01-22 06:49:50 keystorepassword = wertyuiopoifdcfvgbhnjmkjbhv
+
+--1642700993-eximdsn-1016084519--
